@@ -2,26 +2,7 @@
 
 A complete **Full-Stack Web Application** to register, manage, and explore student records. Built with **React (Frontend)**, **Spring Boot (Backend)**, and **MySQL (Database)**, this system includes features like student registration, pagination, search, and time zone API integration with modern UI/UX.
 
-🙋‍♂️ Admin Info
-👨‍💼 Malipeddi Sekhar
-
-📍 Java Full Stack Developer
-
-🔗 GitHub
-
-🔗 LinkedIn
-
-## 📌 Key Features
-
-- ✅ Register new students with validation
-- ✅ Paginated view of all student data
-- ✅ Search students by name
-- ✅ Get current time by region using external API
-- ✅ Responsive UI using clean CSS
-- ✅ Scrollbars, hover effects, cards layout for realistic design
-- ✅ Role: Admin - Malipeddi Sekhar
-
----
+1
 
 ## 🧰 Technologies Used
 
